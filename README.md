@@ -76,5 +76,26 @@ These tools are commonly used by analytics teams in:
 
 ## 🧩 How to Run
 
-1. Clone or download th
-# stock-forecasting-risk-analysis
+1. Clone or download the repository  
+2. Open the `.ipynb` file in Google Colab or Jupyter Notebook  
+3. Run all cells (the notebook automatically downloads data through `yfinance`)  
+
+No extra files or API keys are required.
+
+---
+
+## 📝 Summary of Findings
+
+- Tesla shows the highest volatility and widest Bollinger Band ranges, signaling more uncertainty.  
+- Apple and Microsoft show steadier price behavior and smoother trend patterns.  
+- The Holt-Winters forecast suggests gradual upward movement across the three stocks, with slowing volatility and mild consolidation.  
+- These risk indicators help contextualize price movements and provide actionable insights for short-term planning and strategy.  
+
+---
+
+## 📬 Contact
+
+If you'd like to discuss this project, analytics techniques, or portfolio development, feel free to reach out.
+
+---
+
